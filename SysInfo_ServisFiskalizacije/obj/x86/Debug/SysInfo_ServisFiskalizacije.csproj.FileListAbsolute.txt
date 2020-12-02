@@ -1,0 +1,14 @@
+C:\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_ServisFiskalizacije\bin\Debug\SysInfo_ServisFiskalizacije.exe.config
+C:\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_ServisFiskalizacije\bin\Debug\SysInfo_ServisFiskalizacije.exe
+C:\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_ServisFiskalizacije\bin\Debug\SysInfo_ServisFiskalizacije.pdb
+C:\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_ServisFiskalizacije\bin\Debug\SysInfo_Fiskalizator.dll
+C:\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_ServisFiskalizacije\bin\Debug\SysInfo_Fiskalizator.pdb
+C:\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_ServisFiskalizacije\bin\Debug\SysInfo_Fiskalizator.dll.config
+C:\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_ServisFiskalizacije\obj\x86\Debug\SysInfo_ServisFiskalizacije.csprojAssemblyReference.cache
+C:\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_ServisFiskalizacije\obj\x86\Debug\SysInfo_ServisFiskalizacije.ProjectInstaller.resources
+C:\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_ServisFiskalizacije\obj\x86\Debug\SysInfo_ServisFiskalizacije.SysInfo_ServisFiskalizacije.resources
+C:\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_ServisFiskalizacije\obj\x86\Debug\SysInfo_ServisFiskalizacije.csproj.GenerateResource.cache
+C:\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_ServisFiskalizacije\obj\x86\Debug\SysInfo_ServisFiskalizacije.csproj.CoreCompileInputs.cache
+C:\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_ServisFiskalizacije\obj\x86\Debug\SysInfo_ServisFiskalizacije.csproj.CopyComplete
+C:\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_ServisFiskalizacije\obj\x86\Debug\SysInfo_ServisFiskalizacije.exe
+C:\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_ServisFiskalizacije\obj\x86\Debug\SysInfo_ServisFiskalizacije.pdb

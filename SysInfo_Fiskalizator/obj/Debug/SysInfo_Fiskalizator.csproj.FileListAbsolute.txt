@@ -1,0 +1,7 @@
+C:\Users\examp\source\repos\SysInfo_Fiskalizacija\SysInfo_Fiskalizator\bin\Debug\SysInfo_Fiskalizator.dll.config
+C:\Users\examp\source\repos\SysInfo_Fiskalizacija\SysInfo_Fiskalizator\bin\Debug\SysInfo_Fiskalizator.dll
+C:\Users\examp\source\repos\SysInfo_Fiskalizacija\SysInfo_Fiskalizator\bin\Debug\SysInfo_Fiskalizator.pdb
+C:\Users\examp\source\repos\SysInfo_Fiskalizacija\SysInfo_Fiskalizator\obj\Debug\SysInfo_Fiskalizator.csprojAssemblyReference.cache
+C:\Users\examp\source\repos\SysInfo_Fiskalizacija\SysInfo_Fiskalizator\obj\Debug\SysInfo_Fiskalizator.csproj.CoreCompileInputs.cache
+C:\Users\examp\source\repos\SysInfo_Fiskalizacija\SysInfo_Fiskalizator\obj\Debug\SysInfo_Fiskalizator.dll
+C:\Users\examp\source\repos\SysInfo_Fiskalizacija\SysInfo_Fiskalizator\obj\Debug\SysInfo_Fiskalizator.pdb

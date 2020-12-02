@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{04D9D8A1-F98B-4B65-9E01-148A4A6F881B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SysInfo_Fiskalizator</RootNamespace>
+    <AssemblyName>SysInfo_Fiskalizator</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>grb.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Model\AdresaType.cs" />
+    <Compile Include="Model\AdresniPodatakType.cs" />
+    <Compile Include="Model\Auxilliary\Helper.cs" />
+    <Compile Include="Model\BrojRacunaType.cs" />
+    <Compile Include="Model\ProvjeraOdgovor.cs" />
+    <Compile Include="Model\MessageType.cs" />
+    <Compile Include="Model\PdvType.cs" />
+    <Compile Include="Model\EntityBaseType.cs" />
+    <Compile Include="Model\Fiskalizator.cs" />
+    <Compile Include="Model\GreskaType.cs" />
+    <Compile Include="Model\GreskeType.cs" />
+    <Compile Include="Model\NacinPlacanjaType.cs" />
+    <Compile Include="Model\NaknadaType.cs" />
+    <Compile Include="Model\NaknadeType.cs" />
+    <Compile Include="Model\OstaliPoreziType.cs" />
+    <Compile Include="Model\OznakaSlijednostiType.cs" />
+    <Compile Include="Model\OznakaZatvaranjaType.cs" />
+    <Compile Include="Model\PorezNaPotrosnjuType.cs" />
+    <Compile Include="Model\PorezOstaloType.cs" />
+    <Compile Include="Model\PorezType.cs" />
+    <Compile Include="Model\PoslovniProstorOdgovor.cs" />
+    <Compile Include="Model\PoslovniProstorType.cs" />
+    <Compile Include="Model\PoslovniProstorZahtjev.cs" />
+    <Compile Include="Model\ProvjeraZahtjev.cs" />
+    <Compile Include="Model\RacunOdgovor.cs" />
+    <Compile Include="Model\RacunType.cs" />
+    <Compile Include="Model\RacunZahtjev.cs" />
+    <Compile Include="Model\SoapMessenger.cs" />
+    <Compile Include="Model\ZaglavljeOdgovorType.cs" />
+    <Compile Include="Model\ZaglavljeType.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Util\MyExitException.cs" />
+    <Compile Include="Util\OperationType.cs" />
+    <Compile Include="Util\Settings.cs" />
+    <Compile Include="Util\TrustAllCertificatePolicy.cs" />
+    <Compile Include="Util\Util.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="grb.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="XMLScheme\FiskalizacijaSchema.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="XMLScheme\xmldsig-core-schema.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

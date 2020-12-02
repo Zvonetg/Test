@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SysInfo_AdapterFiskalizacije.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CIS_URLTEST" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://cistest.apis-it.hr:8449/FiskalizacijaServiceTest</Value>
+    </Setting>
+    <Setting Name="CIS_URL" Type="(Web Service URL)" Scope="User">
+      <Value Profile="(Default)">https://cis.porezna-uprava.hr:8449/FiskalizacijaService</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,7 @@
+C:\Fiskal\v1.4 Final\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_Fiskalizator\bin\Release\SysInfo_Fiskalizator.dll.config
+C:\Fiskal\v1.4 Final\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_Fiskalizator\bin\Release\SysInfo_Fiskalizator.dll
+C:\Fiskal\v1.4 Final\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_Fiskalizator\bin\Release\SysInfo_Fiskalizator.pdb
+C:\Fiskal\v1.4 Final\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_Fiskalizator\obj\Release\SysInfo_Fiskalizator.csprojAssemblyReference.cache
+C:\Fiskal\v1.4 Final\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_Fiskalizator\obj\Release\SysInfo_Fiskalizator.csproj.CoreCompileInputs.cache
+C:\Fiskal\v1.4 Final\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_Fiskalizator\obj\Release\SysInfo_Fiskalizator.dll
+C:\Fiskal\v1.4 Final\Source v1.4.0 VS2013\SysInfo_Fiskalizacija\SysInfo_Fiskalizator\obj\Release\SysInfo_Fiskalizator.pdb
